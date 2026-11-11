@@ -44,5 +44,5 @@
 | 2 × SYBR green mix    | 7.5    |
 | Primer Forward (3 µM) | 1      |
 | Primer Reverse (3 µM) | 1      |
-| ddH/textsubscript{2}O |        |
+| ddH\textsubscript{2}O |        |
 |                       |        |
