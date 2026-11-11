@@ -39,6 +39,10 @@
 四.qPCR扩增
 1. 配制 qRT-PCR 反应体系（总体系 15 µL）
 
-| 组分  | 体积(µL) |
-| --- | ------ |
-|     |        |
+| 组分                    | 体积(µL) |
+| --------------------- | ------ |
+| 2 × SYBR green mix    | 7.5    |
+| Primer Forward (3 µM) | 1      |
+| Primer Reverse (3 µM) | 1      |
+| ddH/textsubscript{2}O |        |
+|                       |        |
