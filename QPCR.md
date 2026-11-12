@@ -44,5 +44,15 @@
 | 2 × SYBR green mix    | 7.5    |
 | Primer Forward (3 µM) | 1      |
 | Primer Reverse (3 µM) | 1      |
-| ddH\textsubscript{2}O |        |
-|                       |        |
+| $ddH_2O$              | 0      |
+| $cDNA(1mg/\mu L$)     | 5.5    |
+| Totle                 | 15     |
+2. 上机循环条件(Cycles for RT-qPCR)
+
+| 步骤                 | 温度     | 时间          |
+| ------------------ | ------ | ----------- |
+| Holding Stage(预变性) | 95     | 10min       |
+| Cycling Stage(扩增)  | 95  60 | 15sec  1min |
+| Melting Curve      | 95  60 | 15sec1min   |
+|                    |        |             |
+|                    |        |             |
