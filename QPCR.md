@@ -1,7 +1,8 @@
 ### 实验准备
 - 引物 [[引物稀释]]
-- RNA模板
-
+- 模板RNA
+- $4\times gDNA wiper Mix~5\times HiScript II qRT SuperMix II$
+- $$
 ### 实验步骤
 一.gDNA去除
 1. 将RNA模板,试剂盒在冰上解冻,轻柔均匀并短暂离心
