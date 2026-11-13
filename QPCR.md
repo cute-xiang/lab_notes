@@ -1,8 +1,9 @@
 ### 实验准备
 - 引物 [[引物稀释]]
-- 模板RNA
-- $4\times gDNA wiper Mix~5\times HiScript II qRT SuperMix II$
-- $$
+- 模板RNA Primer(引物)
+- $4\times gDNA wiper Mix~5\times HiScript II qRT SuperMix II$ (提前取出于冰上解冻，然后短暂离心，用移液枪吹打混匀)
+- $RNase-free~ddH_2O$ 
+- $2\times SYBR~green~mix$ 
 ### 实验步骤
 一.gDNA去除
 1. 将RNA模板,试剂盒在冰上解冻,轻柔均匀并短暂离心
@@ -20,6 +21,7 @@
 	2. 说明书要求不要超过1µg(1000ng),我们取目标质量为500ng
 	3. 计算体积:500ng/250ng/µL=2µL
 	4. 说明书表明体积不能超过2µL
+- 按照“水$\rightarrow$Mix$\rightarrow$RNA"的顺序加样
 二.配置逆转录体系
 1. 向第一步的反应管中添加5 x HiScript II qRT SuperMix II
 
