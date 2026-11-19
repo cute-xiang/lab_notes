@@ -1,7 +1,19 @@
+### 单词
+- extracellular trap 胞外陷阱
+- Ostsoarthritis 关节炎
+- synovial 
 
 
 
-gWB:内参GAPDH
+
+
+
+
+
+
+
+
+gWB:内参GAPDH [[figure.pdf]]
 si ko 
 免疫荧光
 DMM Sham
