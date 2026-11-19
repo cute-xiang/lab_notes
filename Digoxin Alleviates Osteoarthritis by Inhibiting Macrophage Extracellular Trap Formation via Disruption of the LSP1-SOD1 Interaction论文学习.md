@@ -1,3 +1,8 @@
+
+
+
+
+
 gWB:内参GAPDH
 si ko 
 免疫荧光
