@@ -1,7 +1,11 @@
 ### 单词
 - extracellular trap 胞外陷阱
 - Ostsoarthritis 关节炎
-- synovial 
+- synovial 滑膜的
+- cartilage 软骨
+- chondrocytes 软骨细胞
+### 实验环节
+- WB:![[figure.pdf]]
 
 
 
@@ -13,7 +17,6 @@
 
 
 
-gWB:内参GAPDH [[figure.pdf]]
 si ko 
 免疫荧光
 DMM Sham
