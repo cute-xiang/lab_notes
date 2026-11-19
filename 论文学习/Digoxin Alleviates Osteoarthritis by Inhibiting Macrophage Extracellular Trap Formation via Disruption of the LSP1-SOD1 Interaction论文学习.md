@@ -1,8 +1,6 @@
 
 
 
-
-
 gWB:内参GAPDH
 si ko 
 免疫荧光
@@ -12,8 +10,7 @@ DMM Sham
 IHC
 OARSI
 F4/80 CD68
-BMDM
-
+BMDM 
 
 
 - ==🔴FTA==改善心脏功能
