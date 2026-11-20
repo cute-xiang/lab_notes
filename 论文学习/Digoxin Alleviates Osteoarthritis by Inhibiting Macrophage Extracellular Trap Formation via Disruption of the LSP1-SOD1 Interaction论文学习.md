@@ -6,7 +6,7 @@
 - chondrocytes 软骨细胞
 ### 实验环节
 - WB:![[figure.pdf]]
-
+一般来说,WB的图应该是从下往上看.GAPDH
 
 
 

@@ -201,15 +201,6 @@
     {
       "providerId": "dac4731c-0d1b-454d-9241-c89f180e6fdf",
       "info": {
-        "id": "opencode/inkling-2-small-free",
-        "displayName": "opencode/Inkling 2 Small Free"
-      },
-      "configuredModelId": "35208bd5-c7f7-46b9-b46b-395b06233b40",
-      "configuredAt": 1795098110650
-    },
-    {
-      "providerId": "dac4731c-0d1b-454d-9241-c89f180e6fdf",
-      "info": {
         "id": "opencode/longcat-2.5-free",
         "displayName": "opencode/LongCat 2.5 Free"
       },
