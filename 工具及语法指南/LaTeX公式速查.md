@@ -261,7 +261,7 @@ $$
 
 - [[QPCR原理]]
 - [[QPCR]]
-- [[Western blot 原理]]
+- [[Western Blot 原理]]
 - [[Flow cytometry 原理]]
 - [[RNA抽提]]
 - [[蛋白提取]]
