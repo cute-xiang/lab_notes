@@ -1,0 +1,10 @@
+{
+  "id": "duoai-assistant",
+  "name": "DuoAI Assistant",
+  "version": "1.0.3",
+  "minAppVersion": "1.4.0",
+  "description": "Generate continuations, summaries, translations, and polished text with any custom LLM API (OpenAI, Anthropic, Grok). 支持任意自定义大模型 API，提供续写、总结、翻译、润色与 AI 问答.",
+  "author": "sxpwx",
+  "authorUrl": "https://github.com/sxpwx",
+  "isDesktopOnly": false
+}

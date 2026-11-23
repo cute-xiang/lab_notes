@@ -1,0 +1,13 @@
+{
+  "provider": "deepseek",
+  "apiBaseUrl": "https://api.deepseek.com/v1",
+  "apiKey": "sk-a8e9ff4a8be1436f9d91d095f2cede7f",
+  "model": "deepseek-chat",
+  "temperature": 0.7,
+  "maxTokens": 2048,
+  "timeoutMs": 60000,
+  "systemPrompt": "你是一个专业的写作与阅读助手，帮助用户处理 Markdown 笔记。回答要简洁、准确、有条理。",
+  "ghostEnabled": true,
+  "ghostDelayMs": 10000,
+  "ghostAcceptKey": "Space"
+}

@@ -1,0 +1,39 @@
+.ai-modal-buttons {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.ai-result-question {
+  color: var(--text-muted);
+  font-size: var(--font-ui-small);
+  margin-bottom: 8px;
+  white-space: pre-wrap;
+}
+
+.ai-result-answer {
+  white-space: pre-wrap;
+  word-break: break-word;
+  line-height: 1.6;
+  padding: 12px;
+  background: var(--background-secondary);
+  border-radius: 6px;
+  max-height: 50vh;
+  overflow: auto;
+}
+
+/* 光标停留自动续写：半透明幽灵文本 */
+.ai-ghost-text {
+  color: var(--text-faint);
+  opacity: 0.45;
+  font-style: italic;
+  pointer-events: none;
+  white-space: pre-wrap;
+}
+
+/* 设置面板：中文说明下方的英文说明 */
+.ai-setting-desc-en {
+  margin-top: 2px;
+  opacity: 0.75;
+}
